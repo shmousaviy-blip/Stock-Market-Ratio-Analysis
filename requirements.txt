@@ -5,3 +5,5 @@ plotly
 crewai
 crewai-tools
 python-dotenv
+litellm
+langchain-groq
