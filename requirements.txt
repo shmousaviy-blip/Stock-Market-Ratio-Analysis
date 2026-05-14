@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+plotly
+crewai
+crewai-tools
+python-dotenv
